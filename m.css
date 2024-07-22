@@ -1,0 +1,25 @@
+*{
+    padding: 0PX;
+    margin: 0px;
+}
+
+ul{
+    
+    display: flex;
+    font-size: 15px;
+    background-color: brown;
+    
+    
+    
+}
+
+li{
+    font-size: 1em;
+    list-style:none;
+    margin-left: 0.7em;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}

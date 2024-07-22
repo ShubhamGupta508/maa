@@ -1,0 +1,50 @@
+body{
+    background-color: yellow;
+}
+div{
+    margin: 3px;
+    text-align: center;
+    
+}
+
+
+.username{
+    margin-top: 130px;
+}
+.main{
+    border: 2px solid black;
+    height: 300px;
+    width: 400px;
+    margin:30px 0px 0px 500PX;
+    background-color: brown;
+    
+}
+button{
+    border-style: none;
+    background-color: yellow;
+}
+
+button{
+    
+    transition: text-decoration 2s 2s ease-in-out;
+    
+    
+}
+#btn:hover{
+    text-decoration:4px underline blue;
+}
+#login:hover{
+    text-decoration:4px underline blue;
+}
+
+
+@media screen and (max-width:1079px) {
+    .main{
+        margin: 0px;
+    }
+    
+}
+
+
+
+
